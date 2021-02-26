@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <p align="center">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=MasterOdin&langs_count=10&layout=compact" />
   <a href="https://github.com/MasterOdin" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@MasterOdin-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
