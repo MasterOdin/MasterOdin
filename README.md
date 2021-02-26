@@ -1,6 +1,14 @@
 ### Hi there 👋
 
-![GH languages](https://github-readme-stats.vercel.app/api/top-langs?username=MasterOdin&langs_count=10&layout=compact)
+<p align="center">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=MasterOdin&langs_count=10&layout=compact" />
+  <a href="https://github.com/MasterOdin" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@MasterOdin-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/mpeveler" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
+  <a href="https://www.researchgate.net/profile/Alwin_Wang" target="_blank"><img alt="Matthew-Peveler" src="https://img.shields.io/badge/-ResearchGate-00CCBB?style=flat-square&logo=ResearchGate&logoColor=white"></a>
+  <a href="https://stackoverflow.com/users/4616655/masterodin" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat-square&logo=Stack-Overflow&logoColor=white"></a>
+  <br />
+  Hello, my name is Matthew Peveler. I like to build things.
+</p>
 
 <!--
 **MasterOdin/MasterOdin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
