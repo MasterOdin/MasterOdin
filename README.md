@@ -1,5 +1,5 @@
 <p align="center">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=MasterOdin&langs_count=10&layout=compact" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=MasterOdin&hide=tex&langs_count=10&layout=compact" />
   Hello, my name is Matthew Peveler. I like to build things.
   <br /><br />I currently work as a software engineer at <a href="https://popsql.com">PopSQL</a>. (<a href="https://jobs.ashbyhq.com/popsql">we're hiring</a>!)
   <br /><br />I got my PhD in Computer Science from <a href="https://rpi.edu/">Rensselaer Polytechnic Institute</a>, working in the <a href="https://cisl.rpi.edu/">Cognitive and Immersive Systems Lab</a> under Dr. Hui Su and <a href="https://rair.cogsci.rpi.edu/">Rensselaer Aritificial Intelligence and Reasoning Lab</a> under <a href="https://homepages.rpi.edu/~brings/">Dr. Selmer Bringsjord</a>.
