@@ -1,5 +1,6 @@
 <p align="center">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=MasterOdin&hide=tex&langs_count=10&layout=compact" />
+  <!-- hide tex since it dominates all other languages somewhat unfairly -->
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=MasterOdin&count_private=true&hide=tex&langs_count=10&layout=compact" />
   Hello, my name is Matthew Peveler. I like to build things.
   <br /><br />I currently work as a software engineer at <a href="https://popsql.com">PopSQL</a>. (<a href="https://jobs.ashbyhq.com/popsql">we're hiring</a>!)
   <br /><br />I got my PhD in Computer Science from <a href="https://rpi.edu/">Rensselaer Polytechnic Institute</a>, working in the <a href="https://cisl.rpi.edu/">Cognitive and Immersive Systems Lab</a> under Dr. Hui Su and <a href="https://rair.cogsci.rpi.edu/">Rensselaer Aritificial Intelligence and Reasoning Lab</a> under <a href="https://homepages.rpi.edu/~brings/">Dr. Selmer Bringsjord</a>.
@@ -9,18 +10,3 @@
   <a href="https://www.researchgate.net/profile/Matthew-Peveler" target="_blank"><img alt="Matthew-Peveler" src="https://img.shields.io/badge/-ResearchGate-00CCBB?style=flat-square&logo=ResearchGate&logoColor=white"></a>
   <a href="https://stackoverflow.com/users/4616655/masterodin" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat-square&logo=Stack-Overflow&logoColor=white"></a>
 </p>
-
-<!--
-**MasterOdin/MasterOdin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
